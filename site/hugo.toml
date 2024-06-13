@@ -18,8 +18,8 @@ pygmentsCodefencesGuessSyntax = true
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Personal Activity Intelligence for Wear OS users"
   mainSections = ["post","posts"]
-  logo = "img/logoPAITheme.png" # Expecting square dimensions
-  favicon = "img/logoPAITheme.png"
+  logo = "/images/logoPAITheme.png" # Expecting square dimensions
+  favicon = "/images/logoPAITheme.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
@@ -49,7 +49,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Diacronic Corp"
-  website = "https://diacroniccorp.github.io"
+  website = "Diacronic"
   email = "diacronic.corp@gmail.com"
   
 [[menu.main]]
